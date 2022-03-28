@@ -1,0 +1,39 @@
+@media (max-width: 1200px) { 
+    
+}
+@media (max-width: 992px) {  }
+
+
+@media (max-width: 768px) {
+    .top_social_icon ul{
+       display: flex;
+        justify-content: left;
+    }
+    .top_social_icon ul li:first-child a{
+        padding-left: 0;
+    }
+    
+    .slider_part{
+        background-size: cover;
+    }
+    .slider_part .slider_content{
+        padding: 50px 0;
+    }
+    .service{
+        margin-bottom: 50px;
+    }
+/*    port-folio section*/
+    .portfolio_part .mb_30{
+        margin-bottom: 30px;
+    }
+    .portfolio_part .mrt_30{
+        margin-top: 30px;
+    }
+    .blank_padding{
+        margin: 30px 0px;
+    }
+}
+@media (max-width: 576px) { 
+   
+}
+
